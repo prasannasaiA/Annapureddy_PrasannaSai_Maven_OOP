@@ -32,4 +32,4 @@ Create the below project using Maven.
 * A random numbers of chocolates and sweets are added to the gift object, **ArrayList** is used to store the objects of chocolate and sweets classes.
 * Based on the ***Weight*** of gift created the Gifts are sorted and displayed.
 
-[![result](task2.png)]
+![result](task2.png)
